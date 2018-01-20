@@ -15,3 +15,6 @@ Feasibility reports are split up into four sections that each look at different 
 
 ### 1st: Proposed Project Description
 
+This is the part of the report that focuses on the planning side of the project, the market and sales is not analyzed in this section, this is all about schedule, scope and necessary resources needed for the project. The section does not look at the market value or or brand name or anything that is affected after the completion of the project. Instead it is the design process alone and the costs, time and managment of the project can go well.
+
+### 2nd: 
