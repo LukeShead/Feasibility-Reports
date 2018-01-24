@@ -23,8 +23,9 @@ This is the complete opposite of the first section, in constrast to the first se
 
 ### 3rd: Technical Feasibility Section
 
-This is the section that focuses on the special resources that might need to be acquired in order for the project to be successful, this can range from specialized licenses to having a technically trained staff to make the project successful. These special resources usually will cost the most or take up the most time, because of this it means that the project owners will need to make sure that the project is successful 
+This is the section that focuses on the special resources that might need to be acquired in order for the project to be successful, this can range from specialized licenses to having a technically trained staff to make the project successful. These special resources usually will cost the most or take up the most time, because of this it means that the project owners will need to make sure that the project is successful.
 
 
 ### 4th: Financial Feasibility Section
 
+This is the final section and it is where the report will talk about the implementation of the product 
