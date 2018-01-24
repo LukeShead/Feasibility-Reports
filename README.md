@@ -19,4 +19,12 @@ This is the part of the report that focuses on the planning side of the project,
 
 ### 2nd: Market Analysis Section
 
-This is the complete opposite of the first section, 
+This is the complete opposite of the first section, in constrast to the first section, the second focuses completely on the market value of the item, this includes the brand name, sales design and target audience as some examples. This is all about making a profit on the project after it has been built. This section is more important when trying to pitch projects to companies as the company will be more interested in the sales and profit rather than only the use of the project.
+
+### 3rd: Technical Feasibility Section
+
+This is the section that focuses on the special resources that might need to be acquired in order for the project to be successful, this can range from specialized licenses to having a technically trained staff to make the project successful. These special resources usually will cost the most or take up the most time, because of this it means that the project owners will need to make sure that the project is successful 
+
+
+### 4th: Financial Feasibility Section
+
