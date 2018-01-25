@@ -28,4 +28,4 @@ This is the section that focuses on the special resources that might need to be 
 
 ### 4th: Financial Feasibility Section
 
-This is the final section and it is where the report will talk about the implementation of the product and the cosrs in doing so, for example if the project is server based, the cost of setting up and maintaining the servers will become a point that will need to be looked into. 
+This is the final section and it is where the report will talk about the implementation of the product and the costs in doing so, for example if the project is server based, the cost of setting up and maintaining the servers will become a point that will need to be looked into. This the last step of the report as it covers all ends that could hinder the success of the project, by looking at the final costs and implementation methods, the project can be completed and can be successful if the process of building the project goes as the report says.
